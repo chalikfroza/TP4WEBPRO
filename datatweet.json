@@ -1,0 +1,77 @@
+[	
+	{
+		"text":"qwerty",
+		"timestamp":"Thu Apr 06 15:24:45 2017",
+		"favourite_count" : "100",
+		"retweet_count":"200",
+		"user":[
+			{
+				"screen_name":"ast", 
+				"name":"astuti", 
+				"followers_count" : "200",
+				"friends_count" : "100",
+				"url_image" : "1444723750photo_1.jpg" //sembarang foto
+			}
+		]
+	},
+	{
+		"text":"zxcvb",
+		"timestamp":"Thu Apr 06 15:24:45 2017",
+		"favourite_count" : "150",
+		"retweet_count":"120",
+		"user":[
+			{
+				"screen_name":"spt", 
+				"name":"sapto", 
+				"followers_count" : "200",
+				"friends_count" : "100",
+				"url_image" : "1444723750photo_1.jpg" //sembarang foto
+			}
+		]
+	},
+	{
+		"text":"asemduri",
+		"timestamp":"Thu Apr 06 15:24:59 2017",
+		"favourite_count" : "113",
+		"retweet_count":"231",
+		"user":[
+			{
+				"screen_name":"asd", 
+				"name":"asdur", 
+				"followers_count" : "232",
+				"friends_count" : "123",
+				"url_image" : "1444723750photo_1.jpg" //sembarang foto
+			}
+		]
+	},
+	{
+		"text":"qwerty",
+		"timestamp":"Thu Apr 06 15:24:45 2017",
+		"favourite_count" : "100",
+		"retweet_count":"200",
+		"user":[
+			{
+				"screen_name":"ast", 
+				"name":"astuti", 
+				"followers_count" : "200",
+				"friends_count" : "100",
+				"url_image" : "1444723750photo_1.jpg" //sembarang foto
+			}
+		]
+	},
+	{
+		"text":"qazxsw",
+		"timestamp":"Thu Apr 06 15:24:45 2017",
+		"favourite_count" : "100",
+		"retweet_count":"200",
+		"user":[
+			{
+				"screen_name":"ast", 
+				"name":"asanti", 
+				"followers_count" : "200",
+				"friends_count" : "100",
+				"url_image" : "1444723750photo_1.jpg" //sembarang foto
+			}
+		]
+	}	
+]
